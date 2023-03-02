@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi! I`m Yana! 👋 
+Thanks for coming!
+
+🛠 Technical Stack:
+- Python (Pandas, )
+- SQL (group query, sub-query, window functions, JOIN)
+
+<!--🔭 My certificates:
+-->
+
+
+
 
 <!--
 **yanashub/yanashub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
