@@ -5,6 +5,10 @@ Thanks for coming!
 - Python (Pandas, )
 - SQL (group query, sub-query, window functions, JOIN)
 
+📫 How to reach me:
+- Telegram @YanaShuu
+- e-mail prohotskaya.yana@yandex.ru
+
 <!--🔭 My certificates:
 -->
 
