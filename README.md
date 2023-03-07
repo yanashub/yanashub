@@ -9,8 +9,9 @@ Thanks for coming!
 - Telegram @YanaShuu
 - e-mail prohotskaya.yana@yandex.ru
 
-<!--🔭 My certificates:
--->
+🔭 Сertificates (SQL in development):
+- [Statistics](https://stepik.org/cert/1975326)
+
 
 
 
