@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-🛠 ## Technical Stack:
+## 🛠 Technical Stack:
 - Python (pandas, matplotlib, scipy, seaborn, telegram, asyncio)
 - SQL (group query, sub-query, window functions, JOIN)
 - Google sheets
