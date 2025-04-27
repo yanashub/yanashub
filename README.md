@@ -22,20 +22,21 @@
     <td>
       <h3> Привет, меня зовут Яна 👋</h3>
       <p> 💻 Работаю с данными.  <br> Люблю приводить данные в порядок, находить связи и делать полезные BI решения.</p>
-      <p>📈 анализ <br> 📊 визуализация<br> 🚀 оптимизация <br>  
-         <br>    
+      <p>📈 анализ <br> 📊 визуализация<br> 🚀 оптимизация <br><br>    
          🌱 Учусь продвинутой аналитике данных.<br>
          💡 Некоторые мои проекты представлены здесь.<br>   
          🎹 В свободное время занимаюсь на инструменте.<br>
          🏞  Люблю много гулять пешком.<br>
+      </p> <!-- Вот здесь я закрыл старый параграф -->
+
       <p align="left">
-      <a href="https://wa.me/89612767870" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="40" style="border-radius: 50%; margin-right: 10px;">
-      </a>
-      <a href="https://t.me/YanaShuu" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.png" width="40" style="border-radius: 50%; margin-right: 10px;">
-      </a>
-     </p>
+        <a href="https://wa.me/89612767870" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="40" style="border-radius: 50%; margin-right: 10px;">
+        </a>
+        <a href="https://t.me/YanaShuu" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.png" width="40" style="border-radius: 50%; margin-right: 10px;">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
