@@ -1,5 +1,6 @@
-# Hi! I`m Yana! 👋 
-Thanks for coming!
+# Привет, меня зовут Яна 👋 
+💻 Работаю с данными (📈 анализ, 📊 визуализация, 🚀 оптимизация) 
+          
 
 🛠 Technical Stack:
 - Python (Pandas, )
@@ -13,7 +14,20 @@ Thanks for coming!
 - [Statistics](https://stepik.org/cert/1975326)
 
 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250">
+    </td>
+    <td>
+      <h3>Привет! Я Яна 👋</h3>
+      <p>Я начинающий Data Scientist, люблю Python, pandas и строю крутые проекты.</p>
+      <p>🔭 Сейчас работаю над новым Telegram-ботом.<br>
+         🌱 Учусь продвинутой аналитике данных.<br>
+         💬 Можешь написать мне, если хочешь обсудить идеи!</p>
+    </td>
+  </tr>
+</table>
 
 
 <!--
