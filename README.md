@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250">
+      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="250">
     </td>
     <td>
       <h3> Привет, меня зовут Яна 👋</h3>
