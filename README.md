@@ -28,15 +28,14 @@
          💡 Некоторые мои проекты представлены здесь.<br>   
          🎹 В свободное время занимаюсь на инструменте.<br>
          🏞  Люблю много гулять пешком.<br>
-      <p>
-        <a href="https://wa.me/89612767870">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="30">
-        </a>
-        &nbsp;
-        <a href="https://t.me/your_telegram_username">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.png" width="30">
-        </a>
-      </p>
+      <p align="left">
+      <a href="https://wa.me/89612767870" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="40" style="border-radius: 50%; margin-right: 10px;">
+      </a>
+      <a href="https://t.me/@YanaShuu" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.png" width="40" style="border-radius: 50%; margin-right: 10px;">
+      </a>
+     </p>
     </td>
   </tr>
 </table>
