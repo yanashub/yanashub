@@ -28,10 +28,13 @@
          💡 Некоторые мои проекты представлены здесь.<br>   
          🎹 В свободное время занимаюсь на инструменте.<br>
          🏞  Люблю много гулять пешком.<br>
-      </p>
       <p>
         <a href="https://wa.me/89612767870">
-          <img src="https://your-image-host.com/whatsapp-icon.png" width="30">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="30">
+        </a>
+        &nbsp;
+        <a href="https://t.me/your_telegram_username">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.png" width="30">
         </a>
       </p>
     </td>
